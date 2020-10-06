@@ -104,6 +104,12 @@ Note: '--sourcefiles' parameter is needed to see lines in the sourcefiles marked
 
 
 
+## 2020.10.06 - unable to run agent for spring-boot application in IntelliJ
+
+Intellij uses JAVA_OPTS for launching spring boot apps. So adding the '-javaagent' param to
+the Run configuration in IntelliJ doesn't work. Get the java program command using 'ps -ef'
+and update the '-javaagent' part of the command to get jacoco working
+
 
 
 
