@@ -48,7 +48,7 @@
         <junit.version>4.11</junit.version>
         <mockito.version>2.8.47</mockito.version>
         <hamcrest.version>2.0.0.0</hamcrest.version>
-        <jboss.resteasy.version>3.0.16.Final</jboss.resteasy.version>
+        <jboss.resteasy.version>3.14.0.Final</jboss.resteasy.version>
         <slf4j.simple.version>1.7.25</slf4j.simple.version>
         <selenium.version>3.4.0</selenium.version>
 
