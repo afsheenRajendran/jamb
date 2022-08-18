@@ -41,7 +41,7 @@
 
         <!-- Provided Dependencies -->
         <jboss.version>1.1.0.Final</jboss.version>
-        <undertow.version>2.0.23.Final</undertow.version>
+        <undertow.version>2.2.19.Final</undertow.version>
         <hibernate.validator.version>5.3.6.Final</hibernate.validator.version>
 
         <!-- Testing Dependencies -->
